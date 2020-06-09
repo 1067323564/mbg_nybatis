@@ -15,5 +15,6 @@ public class LianXitest {
         System.out.println("aaaaa");
         int a=10;
         int b=20;
+        System.out.println("年后");
     }
 }

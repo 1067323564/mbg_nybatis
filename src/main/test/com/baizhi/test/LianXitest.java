@@ -13,5 +13,7 @@ public class LianXitest {
     public void test1() {
         System.out.println("我来了");
         System.out.println("aaaaa");
+        int a=10;
+        int b=20;
     }
 }
